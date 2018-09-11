@@ -1,0 +1,19 @@
+        h1{background-color:#2F4F4F ;
+		color:white; 
+    	text-align: center;
+    	padding: 30px;}
+    	h5{background-color: 	#E6E6FA;
+    	padding: 20px;
+    	margin-top: 20px;}
+		.button{background-color: #333;
+    	border: none;
+    	color: white;
+    	padding: 15px 32px;
+    	text-align: center;
+    	text-decoration: none;
+    	display: inline-block;
+    	font-size: 16px;
+    	overflow: hidden;}
+        p{background-color: #E6E6FA;
+        padding: 20px;
+        margin-top: 20px;}
